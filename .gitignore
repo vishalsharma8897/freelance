@@ -10,7 +10,7 @@ yarn.lock
 
 node_modules
 dist
-dist-ssr
+dist-ssrgit 
 *.local
 
 # Editor directories and files
